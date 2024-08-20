@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>SSD Lab 1</h1>
       <div>
-      <h3 className="read-the-docs">
+      <h3>
       The following are the tasks for this lab. </h3>
       <p> Creation of Git account( if you already have, then no need).</p>
       <p> Pushing of project folder on online git by creating a local
