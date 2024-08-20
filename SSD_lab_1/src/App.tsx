@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <h1>SSD Lab 1</h1>
-      <div className="card">
+      <div>
       <h3 className="read-the-docs">
       The following are the tasks for this lab. </h3>
       <p> Creation of Git account( if you already have, then no need).</p>
